@@ -9,4 +9,4 @@ Hi, my name is Billy
 
 ### Contact me
 
-[email@domain.com](mailto:milhanol068@gmail.com)
+[my email](mailto:milhanol068@gmail.com)
